@@ -7,8 +7,9 @@ Dynamic Callbacks can be used for re-establishing communication with C2 infrastr
 
 <img src="https://i.imgur.com/0Km6j9U.png?1" width="720">
 
+## Dynamic Callbacks: Emails
 
-The following is an example of how Dynamic Callbacks can be used during post-exploitation phase abusing emails as a trigger.
+The following is an example of how Dynamic Callbacks can be used during post-exploitation phase, abusing emails as a trigger.
 
 <img src="https://i.imgur.com/8ORnsqd.png" width="720">
 
