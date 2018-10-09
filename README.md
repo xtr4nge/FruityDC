@@ -1,4 +1,9 @@
 # FruityDC
+FruityDC project and Dynamic Callbacks methods will be released soon! 
+<br>
+As part of the initial release, Dynamic Callbacks will be implemented on FruityC2 ps-stager and ps-agent.
+
+
 ## Dynamic Callbacks
 
 Maintaining persistence and communication between C2 infrastructure and compromised hosts is a fundamental element for successful red team campaigns. This is well understood by defenders, and so effort and time is invested by SOCs in improving their detection and blocking capabilities to reduce the time that persistence and communication can be maintained. But what if the communication and persistence can be re-established dynamically after it is blocked?
