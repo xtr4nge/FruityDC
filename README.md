@@ -1,7 +1,5 @@
 ## Demo: Dynamic Callbacks Implementation - Email 1/2
-Abusing emails for patching and triggering the payload.
 
-Flow:
 - A new folder is created (inbox/_MOVE).
 - A new rule is created on Outlook. (HideMe).
 - Send 1, sets the email with HASH on method GSearch.
@@ -18,9 +16,7 @@ https://youtu.be/H6GnUTDJWCg
 
 
 ## Demo: Dynamic Callbacks Implementation - Email 2/2
-Abusing emails for patching and triggering the payload.
 
-Flow:
 - The folder _MOVE is hidden.
 - Send 3, sets the email with HASH on method Youtube.
 - An email is sent to the target.
