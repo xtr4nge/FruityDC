@@ -5,7 +5,7 @@ Maintaining persistence and communication between C2 infrastructure and compromi
 
 Dynamic Callbacks can be used for re-establishing communication with C2 infrastructure and for achieving persistence by using different methods incorporating communication with popular websites, domain fronting and multiple protocols.
 
-<img src="https://i.imgur.com/0Km6j9U.png" width="720">
+<img src="https://i.imgur.com/0Km6j9U.png?1" width="720">
 
 
 The following is an example of how Dynamic Callbacks can be used during post-exploitation phase abusing emails as a trigger.
