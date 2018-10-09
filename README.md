@@ -1,7 +1,7 @@
 # FruityDC
 FruityDC project and Dynamic Callbacks methods will be released soon! 
 <br>
-As part of the initial release, Dynamic Callbacks will be implemented on FruityC2 ps-stager and ps-agent.
+As part of the initial release, Dynamic Callbacks will be implemented on <a href="https://github.com/xtr4nge/FruityC2" target="_blank">FruityC2</a> ps-stager and ps-agent.
 
 
 ## Dynamic Callbacks
