@@ -10,9 +10,9 @@
 - C2 communication is established (FruityDC simulation).
 
 <br>
-<img src="https://i.imgur.com/EavEWoC.png" width="640">
+<a href="https://youtu.be/H6GnUTDJWCg" target="_blank"><img src="https://i.imgur.com/EavEWoC.png" width="640"></a>
 <br>
-https://youtu.be/H6GnUTDJWCg
+
 
 
 ## Demo: Dynamic Callbacks Implementation - Email 2/2
@@ -26,6 +26,6 @@ https://youtu.be/H6GnUTDJWCg
 - C2 communication is established (FruityDC simulation).
 
 <br>
-<img src="https://i.imgur.com/g3JvMDP.png" width="640">
+<a href="https://youtu.be/bhpi42Oywr4" target="_blank"><img src="https://i.imgur.com/g3JvMDP.png" width="640"></a>
 <br>
-https://youtu.be/bhpi42Oywr4
+
