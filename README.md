@@ -1,3 +1,17 @@
+# FruityDC
+## Dynamic Callbacks
+
+Maintaining persistence and communication between C2 infrastructure and compromised hosts is a fundamental element for successful red team campaigns. This is well understood by defenders, and so effort and time is invested by SOCs in improving their detection and blocking capabilities to reduce the time that persistence and communication can be maintained. But what if the communication and persistence can be re-established dynamically after it is blocked?
+
+Dynamic Callbacks can be used for re-establishing communication with C2 infrastructure and for achieving persistence by using different methods incorporating communication with popular websites, domain fronting and multiple protocols.
+
+<img src="https://i.imgur.com/0Km6j9U.png" width="720">
+
+
+The following is an example of how Dynamic Callbacks can be used during post-exploitation phase abusing emails as a trigger.
+
+<img src="https://i.imgur.com/8ORnsqd.png" width="720">
+
 ## Demo: Dynamic Callbacks Implementation - Email 1/2
 
 - A new folder is created (inbox/_MOVE).
