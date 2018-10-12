@@ -12,9 +12,9 @@ Dynamic Callbacks can be used for re-establishing communication with C2 infrastr
 
 <img src="https://i.imgur.com/0Km6j9U.png?1" width="720">
 
-The idea is simple, store the content on a website that will be potentially reachable through the corporate proxy, such as Google, Youtube, Google Maps, or any other. For obtaining the content, we can use the following flow as an example:
-
 ## Basic Flow
+
+The idea is simple, store the content on a website that will be potentially reachable through the corporate proxy, such as Google, Youtube, Google Maps, or any other. For obtaining the content, we can use the following flow as an example:
 
 <img src="https://i.imgur.com/rtLEcsQ.png" width="720">
 
