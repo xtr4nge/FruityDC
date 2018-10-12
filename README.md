@@ -14,6 +14,8 @@ Dynamic Callbacks can be used for re-establishing communication with C2 infrastr
 
 The idea is simple, store the content on a website that will be potentially reachable through the corporate proxy, such as Google, Youtube, Google Maps, or any other. For obtaining the content, we can use the following flow as an example:
 
+## Basic Flow
+
 <img src="https://i.imgur.com/rtLEcsQ.png" width="720">
 
 - A request is made from the compromised machine, searching for a HASH
@@ -24,6 +26,7 @@ The idea is simple, store the content on a website that will be potentially reac
 - The initial HASH is replaced with the new HASH
 - The next search will used the new HASH
 
+<br>
 <b>Note:</b> This is the basic concept, and it can be implemented by many different ways.
 <br><br>
 
