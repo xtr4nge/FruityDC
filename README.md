@@ -12,6 +12,18 @@ Dynamic Callbacks can be used for re-establishing communication with C2 infrastr
 
 <img src="https://i.imgur.com/0Km6j9U.png?1" width="720">
 
+The idea is simple, store the content on a website that will be potentially reachable through the corporate proxy, such as Google, Youtube, Google Maps, or any other. For obtaining the content, e can use the following flow as an example:
+
+<img src="https://i.imgur.com/rtLEcsQ.png" width="720">
+
+- A request is made from the compromised machine, searching for a HASH
+- The DC method (Hash+Site) returns the content (page source code)
+- The content is parsed (and decoded and/or decrypted)
+- The payload is patched with the new destination (ip/domain)
+- C2 communication is established with the new address
+- The initial HASH is replaced with the new HASH
+- The next search will used the new HASH
+
 ## Dynamic Callbacks: Emails
 
 The following is an example of how Dynamic Callbacks can be used during post-exploitation phase, abusing emails as a trigger.
