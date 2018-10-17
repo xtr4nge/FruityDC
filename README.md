@@ -36,7 +36,7 @@ The Methods are the places were the Dynamic Callbacks can be stored for the payl
 
 <img src="https://i.imgur.com/8QMFvig.png" width="720">
 
-<br><br>
+<br>
 
 <table>
   <tr>
@@ -91,7 +91,7 @@ The Methods are the places were the Dynamic Callbacks can be stored for the payl
   </tr>
 </table>
 
-<br><br>
+<br>
 
 ## Dynamic Callbacks: Emails
 
