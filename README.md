@@ -30,6 +30,69 @@ The idea is simple, store the content on a website that will be potentially reac
 <b>Note:</b> This is the basic concept, and it can be implemented by many different ways.
 <br><br>
 
+## Methods
+
+The Methods are the places were the Dynamic Callbacks can be stored for the payloads to obtain them. The idea is to use common sites, that usually are are not blocked. There are some Methods that can be manipulated using API, therefore, the content can be changed from FruityDC directly.
+
+<img src="https://i.imgur.com/8QMFvig.png" width="720">
+
+<br><br>
+
+<table>
+  <tr>
+    <td>Method</td>
+    <td>API</td>
+    <td>API_DC</td>
+  </tr>
+  <tr>
+    <td>Youtube</td>
+    <td>*</td>
+    <td>*</td>
+  </tr>
+  <tr>
+    <td>Google Sites</td>
+    <td>*</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Google Drive</td>
+    <td>*</td>
+    <td>*</td>
+  </tr>
+  <tr>
+    <td>Google Maps</td>
+    <td>*</td>
+    <td>*</td>
+  </tr>
+  <tr>
+    <td>Google Search</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Github</td>
+    <td>*</td>
+    <td>*</td>
+  </tr>
+  <tr>
+    <td>DF Google</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>DF Amazon</td>
+    <td>*</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TXT</td>
+    <td>*</td>
+    <td>*</td>
+  </tr>
+</table>
+
+<br><br>
+
 ## Dynamic Callbacks: Emails
 
 The following is an example of how Dynamic Callbacks can be used during post-exploitation phase, abusing emails as a trigger.
@@ -50,8 +113,6 @@ The following is an example of how Dynamic Callbacks can be used during post-exp
 <br>
 <a href="https://youtu.be/H6GnUTDJWCg" target="_blank"><img src="https://i.imgur.com/EavEWoC.png" width="640"></a>
 <br>
-
-
 
 ## Demo: Dynamic Callbacks Implementation - Email 2/2
 
